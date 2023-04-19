@@ -1,5 +1,19 @@
+##                                                                 Abdul Sami                                                 
+
+##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 💫 About Me:
 🔭 I’m currently working on Freelancer.com as well as on Fiverr<br>🌱 I’m currently learning Tensorflow<br>📫 How to reach me rajasami408@gmail.com<br>⚡ Fun fact: I am hardworking
+
+Greetings, this is Abdul Sami, a machine learning and Flutter developer. I have accomplished several machine learning projects such as creating CNN models and computer vision projects for multi-camera rule-based recordings. In addition, I have expertise in Flutter and have developed various applications for different companies. I am highly motivated and committed to solving analytical problems on a daily basis.
+
+My data science skills include data cleaning, visualization, analysis, feature extraction, and normalization. For machine learning, I am proficient in linear regression, logistic regression, decision tree, random forest, PCA, SVM, K-fold cross-validation, K-means clustering, bagging, and boosting. I am also experienced in deep learning techniques such as neural networks, CNN, RNN, LSTM, GRU, Yolo, and object detection.
+
+In computer vision, I specialize in face recognition, hand tracking, pose estimation, and image processing.
+
+In terms of Flutter services, I offer Flutter Firebase, API integration, beautiful UI design using Material UI and Sliver widgets, fast and reliable app development, chat app development, Google Maps integration, and e-commerce app development.
+
+I am skilled in state management techniques such as Provider, Getx, Velocityx, Bloc Pattern (Stream Sink Events), and Flutter Bloc. If you're looking for a skilled freelancer to help you with your projects, feel free to reach out to me.
 
 
 ## 🌐 Socials:
