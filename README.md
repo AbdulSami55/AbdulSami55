@@ -10,7 +10,7 @@ In computer vision, I specialize in face recognition, hand tracking, pose estima
 
 In terms of Flutter services, I offer Flutter Firebase, API integration, beautiful UI design using Material UI and Sliver widgets, fast and reliable app development, chat app development, Google Maps integration, and e-commerce app development.
 
-I am skilled in state management techniques such as Provider, Getx, Velocityx, Bloc Pattern (Stream Sink Events), and Flutter Bloc. If you're looking for a skilled freelancer to help you with your projects, feel free to reach out to me.
+I am skilled in state management techniques such as Provider, Getx, Velocityx, Bloc Pattern (Stream Sink Events), and Flutter Bloc.
 
 
 ## 🌐 Socials:
