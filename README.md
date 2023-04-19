@@ -1,7 +1,4 @@
-##                                                                 Abdul Sami                                                 
-
-##---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+                                               
 # 💫 About Me:
 🔭 I’m currently working on Freelancer.com as well as on Fiverr<br>🌱 I’m currently learning Tensorflow<br>📫 How to reach me rajasami408@gmail.com<br>⚡ Fun fact: I am hardworking
 
