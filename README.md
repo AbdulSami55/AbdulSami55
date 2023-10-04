@@ -1,17 +1,38 @@
                                                
 # 💫 About Me:
-🔭 I’m currently working as a Machine Learning and Python Engineer<br>🌱 I’m currently learning Tensorflow<br>📫 How to reach me rajasami408@gmail.com<br>⚡ Fun fact: I am hardworking
+🔭 I’m currently working as a AI Team Lead<br>🌱 I’m currently learning<br>📫 How to reach me rajasami408@gmail.com<br>⚡ Fun fact: I am hardworking
 
-Greetings, this is Abdul Sami, a Machine Learning, Deep Learning Engineer and Flutter developer. I have accomplished several machine learning projects such as creating CNN models and computer vision projects for multi-camera rule-based recordings. In addition, I have expertise in Flutter and have developed various applications for different companies. I am highly motivated and committed to solving analytical problems on a daily basis.
+With over a decade of experience in the software engineering realm 🎓  I am your go-to expert when it comes to navigating the dynamic landscape of startup environments. My journey has been a rich tapestry of roles, from software engineer to DevOps specialist, cloud architect, and even Chief Technology Officer.
 
-My data science skills include data cleaning, visualization, analysis, feature extraction, and normalization. For machine learning, I am proficient in linear regression, logistic regression, decision tree, random forest, PCA, SVM, K-fold cross-validation, K-means clustering, bagging, and boosting. I am also experienced in deep learning techniques such as neural networks, CNN, RNN, LSTM, GRU, Yolo, and object detection.
+🏆 Completed 50+ Jobs, Expert in fine-tuning LLM, Generative AI-based web applications, Data Analytics, ChatGPT, LangChain, Deep Learning, and industrial-level AI projects.
 
-In computer vision, I specialize in face recognition, hand tracking, pose estimation, and image processing.
+Over the past two years, my primary focus has been on assisting startups in harnessing the potential of AI by creating and seamlessly integrating AI solutions into their operations.
 
-In terms of Flutter services, I offer Flutter Firebase, API integration, beautiful UI design using Material UI and Sliver widgets, fast and reliable app development, chat app development, Google Maps integration, and e-commerce app development.
+Presently, I am spearheading my own startup initiative, with a vision to provide a user-friendly platform tailored for crafting AI products. My firm belief is that the future lies not in a solitary Large Language Model (LLM) like ChatGPT, but in a diverse array of finely-tuned LLMs. I am on the lookout for captivating AI projects on Upwork, driven by my unquenchable thirst for knowledge and a desire to gain further insights into the startup ecosystem, all of which I can channel back into enhancing my own product.
 
-I am skilled in state management techniques such as Provider, Getx, Velocityx, Bloc Pattern (Stream Sink Events), and Flutter Bloc.
+My Tech Arsenal:
+- Proficient in Python, JS/TS, Golang, and Bash
+- Adept in Vector Databases such as Pinecone, Weaviate, and Qdrant
+- Expertise in LLMs, including GPT3.5/4, Llama 2, and Falcon
+- Mastery in Fine Tuning techniques: Prompt Tuning, Soft Prompts, LoRA, Fine Tuning, and RLHF
+- Proficiency in Chaining methodologies, such as LangChain and LlamaIndex
+- Skillful in Prompting techniques, encompassing Few Shot, Chain of Thought, Automatic Prompting, and more
+- Utilizing the OpenAI Evals framework for robust evaluations
+- Accomplished in Summarization, Classification, and Chunking
+- Well-versed in DevOps, with a toolkit spanning Kubernetes, Docker, Terraform, Google Cloud, CI/CD, and Monitoring
 
+A Competitive Edge:
+- A decade-long stint in startup environments, fostering impeccable product development skills
+- A relentless commitment to enhancing the customer experience
+- An in-depth understanding of cybersecurity and privacy concerns
+- Leadership experience as an engineering manager, equipping me with exceptional soft skills
+
+My Top 3 Soft Skills:
+- Effective and compelling communication
+- Unwavering dedication to problem-solving
+- An innate ability to adapt to changing environments
+
+Elevate your project to new heights with a seasoned software engineer who brings not just technical expertise, but a profound understanding of the startup ethos. Let's embark on a journey towards innovation and success together. Contact me today to discuss how I can add value to your project and be a catalyst for its success."
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raja.sami.5494) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajabdulsami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajabdulsami/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajasami408) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:20448694) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rajabdulsami) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbdulSa39655438) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCCq_G9olLun9UByQMEtzNww) 
