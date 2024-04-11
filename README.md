@@ -1,5 +1,3 @@
-# Abdul Sami 🚀
-
 ## About Me
 Hello, I'm Abdul Sami 👋, a top-rated freelancer on Upwork and a preferred freelancer on Freelancer.com with a vast experience in AI, blockchain, and cloud services. With over 30 successful projects in my portfolio, I am committed to delivering high-quality solutions in various tech domains.
 
